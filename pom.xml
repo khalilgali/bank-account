@@ -82,6 +82,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>bank-account-kata</finalName>
     </build>
 
 </project>
